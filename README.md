@@ -37,4 +37,4 @@
 Программу можно использовать и для парсинга дат - для этого расскомментировать с 28 по 37 строку.
 Распознование дат осуществлено при помощи библиотеки Natasha (https://github.com/natasha/natasha).
 Программа писалась в https://colab.research.google.com/drive/1hmjN56ACXu_8UCzITxwnmxaPdMjrsMNR в команде с acarmela и mturquin.
-Огромная благодарность https://gist.github.com/trytolose, который помогал и направлял в ходе работы.
+Огромная благодарность trytolose, который помогал и направлял в ходе работы.
