@@ -38,3 +38,5 @@
 Распознование дат осуществлено при помощи библиотеки Natasha (https://github.com/natasha/natasha).
 Программа писалась в https://colab.research.google.com/drive/1hmjN56ACXu_8UCzITxwnmxaPdMjrsMNR в команде с acarmela и mturquin.
 Огромная благодарность trytolose, который помогал и направлял в ходе работы.
+
+Результаты: https://www.kaggle.com/c/retropress-temporal-markup/leaderboard
